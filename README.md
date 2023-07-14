@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamzami16
-- 👀 I’m interested in Python, Matlab Programming and C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Python, Matlab Programming, C# and JavaScripts
+- 🌱 I’m currently learning C# and NodeJS
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
