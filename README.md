@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zamzami16
 - 👀 I’m interested in Python, Matlab Programming, C# and JavaScripts
 - 🌱 I’m currently learning C# and NodeJS
+- 📝 I write about backend development and my curiosity on [my blog](https://zamzami16.github.io/zams.blog/)  
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
